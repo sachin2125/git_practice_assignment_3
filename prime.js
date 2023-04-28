@@ -1,6 +1,5 @@
  let count = 0;
- let num = 23;
- 
+ let num = 23; 
  for(i = 0;i <= num;i++){
    if(num % i == 0){
      count++;
